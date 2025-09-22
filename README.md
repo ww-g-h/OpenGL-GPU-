@@ -32,4 +32,4 @@ RayTracing/
 │       ├── assimp-vc143-mtd.lib
 │       ├── glfw3.lib
 │       └── libglfw3.a
-
+![1](https://github.com/ww-g-h/OpenGL-GPU-/blob/main/output11.png)
