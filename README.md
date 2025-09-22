@@ -33,7 +33,7 @@ RayTracing/
 │       ├── glfw3.lib
 │       └── libglfw3.a
 
-<img width="800" height="600" alt="output16" src="https://github.com/user-attachments/assets/02f909fb-27ac-4427-a073-cbdbed294569" />
+<img width="800" height="600" alt="output16" src="https://github.com/ww-g-h/OpenGL-GPU-/blob/main/output11.png?raw=true" />
 <img width="800" height="600" alt="output15" src="https://github.com/user-attachments/assets/a48fb447-09f3-4db0-8446-bddf9773a7ec" />
 <img width="800" height="600" alt="output12" src="https://github.com/user-attachments/assets/d25a7781-cc30-4b64-8b4b-e4fec260c53c" />
 <img width="1280" height="720" alt="output11" src="https://github.com/user-attachments/assets/ff338965-9e1c-412e-8892-2bb336a8b478" />
