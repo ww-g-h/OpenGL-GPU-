@@ -2,7 +2,6 @@
 基于OpenGL计算着色器的实时光线追踪渲染系统。
 
 ## 项目结构
-
 ```
 RayTracing/
 ├── outputs/                             # 渲染结果输出目录
@@ -32,4 +31,10 @@ RayTracing/
 │       ├── assimp-vc143-mtd.lib
 │       ├── glfw3.lib
 │       └── libglfw3.a
-![1](https://github.com/ww-g-h/OpenGL-GPU-/blob/main/output11.png)
+```
+<img width="800" height="600" alt="output16" src="https://github.com/user-attachments/assets/b01ed266-4994-4de8-8662-481030770ee4" />
+<img width="800" height="600" alt="output15" src="https://github.com/user-attachments/assets/a9985868-9194-4ef5-84e6-577a9c684cb5" />
+<img width="800" height="600" alt="output12" src="https://github.com/user-attachments/assets/7dab8610-8897-41ff-8f5a-1ab9a718a1a6" />
+<img width="1280" height="720" alt="output11" src="https://github.com/user-attachments/assets/73b7774f-d415-4ebe-a567-1cbbd395f837" />
+<img width="1280" height="720" alt="output5" src="https://github.com/user-attachments/assets/ea868bc8-f649-42b8-9d66-56096b9a6ec6" />
+
