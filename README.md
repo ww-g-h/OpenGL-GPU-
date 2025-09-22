@@ -32,4 +32,5 @@ RayTracing/
 │       ├── assimp-vc143-mtd.lib
 │       ├── glfw3.lib
 │       └── libglfw3.a
+![1](https://github.com/user-attachments/assets/fdd0b286-94ed-4a67-98f6-29ca51b21a19)
 
