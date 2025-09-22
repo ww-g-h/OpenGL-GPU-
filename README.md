@@ -32,10 +32,5 @@ RayTracing/
 │       ├── assimp-vc143-mtd.lib
 │       ├── glfw3.lib
 │       └── libglfw3.a
-<img width="800" height="600" alt="output15" src="https://github.com/user-attachments/assets/2ee858a3-67d9-4343-b4d1-c10e2b873616" />
-<img width="800" height="600" alt="output16" src="https://github.com/user-attachments/assets/1a37d054-02f7-4e85-bf19-e674b7d323c0" />
-<img width="1280" height="720" alt="output5" src="https://github.com/user-attachments/assets/34775c3e-eee4-40e5-b3ae-c188658a0acc" />
-<img width="1280" height="720" alt="output11" src="https://github.com/user-attachments/assets/fdfdc3cf-cdcf-4cd7-be94-be666ab2040c" />
-<img width="800" height="600" alt="output12" src="https://github.com/user-attachments/assets/1ae114fd-5a75-4614-83e6-33e23d756d85" />
 
 
